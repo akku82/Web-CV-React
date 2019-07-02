@@ -1,0 +1,19 @@
+{
+  "name": "web-cv-react",
+  "version": "1.0.0",
+  "description": "CV Made with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akku82/Web-CV-React.git"
+  },
+  "author": "ashok alias akku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akku82/Web-CV-React/issues"
+  },
+  "homepage": "https://github.com/akku82/Web-CV-React#readme"
+}
